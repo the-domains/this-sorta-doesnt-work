@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[this-sorta-doesnt-work]]></title>
         <description><![CDATA[this-sorta-doesnt-work]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/this-sorta-doesnt-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 00:26:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 00:31:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/this-sorta-doesnt-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is this beta worth it?]]></title>
+            <description><![CDATA[<article><h1>Is this beta worth it?</h1><p>Seriously is it because I waited over a year for this and so far it's not doing much of what it promised and is disappointing me in big ways</p></article>]]></description>
+            <link>https://thegrid.ai/this-sorta-doesnt-work/is-this-beta-worth-it/index.html</link>
+            <guid isPermaLink="false">9ff4361f-0457-4ddf-8f0b-f80f011f8dd9</guid>
+            <pubDate>Sat, 26 Mar 2016 00:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This sort of doesn't work too awesome]]></title>
             <description><![CDATA[<article><h1>This sort of doesn't work too awesome</h1><p>Which is really unfortunate because of how excited I was</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8638729b-c960-49cc-80a7-f56f23222e6e.jpg"></article>]]></description>
-            <link>undefinedthis-sort-of-doesnt-work-too-awesome/index.html</link>
+            <link>https://thegrid.ai/this-sorta-doesnt-work/this-sort-of-doesnt-work-too-awesome/index.html</link>
             <guid isPermaLink="false">c297132d-c910-4e66-a264-844f1e7d78c4</guid>
             <pubDate>Sat, 26 Mar 2016 00:26:05 GMT</pubDate>
         </item>
